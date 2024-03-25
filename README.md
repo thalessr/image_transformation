@@ -20,6 +20,14 @@ yarn install
 bun install
 ```
 
+## Directus
+```sh
+ docker-compose up
+
+```
+
+
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
